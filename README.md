@@ -2,7 +2,7 @@
 
 ## About The Project
 
- This is code for a tutorial showing how to build message app using socket.io in a React project. The code comes a tutorial by Pedro Tech Tutorials and can be found [here](https://www.linkedin.com/imarichildres). The accompanying YouTube tutorial can be found [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWVOZGJhOFZJaDFNdEdoU19VVFRQdGcxOTlOZ3xBQ3Jtc0tsYzVGcG9ZZHNkVUhhbmNIT3gwS1NoWUYxSFhHelZ5ZzBEZmtRcVJpS2RuSENVcDNaRFBZa3k2WkZDOXNRZkV6VFROT2F6S3pVcFBVcFZHSWlOTERBbDhiTWdTMnk1eWhacl82b0hsb2JlR0Z6Y0dLVQ&q=https%3A%2F%2Fgithub.com%2Fmachadop1407%2Fsocket-io-react-example&v=djMy4QsPWiI).
+ This is code for a tutorial showing how to build a message app using socket.io in a React project. The code comes a tutorial by Pedro Tech Tutorials and can be found [here](https://www.linkedin.com/imarichildres). The accompanying YouTube tutorial can be found [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWVOZGJhOFZJaDFNdEdoU19VVFRQdGcxOTlOZ3xBQ3Jtc0tsYzVGcG9ZZHNkVUhhbmNIT3gwS1NoWUYxSFhHelZ5ZzBEZmtRcVJpS2RuSENVcDNaRFBZa3k2WkZDOXNRZkV6VFROT2F6S3pVcFBVcFZHSWlOTERBbDhiTWdTMnk1eWhacl82b0hsb2JlR0Z6Y0dLVQ&q=https%3A%2F%2Fgithub.com%2Fmachadop1407%2Fsocket-io-react-example&v=djMy4QsPWiI).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 ### Built With
